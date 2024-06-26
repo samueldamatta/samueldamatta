@@ -1,6 +1,5 @@
 Olá eu sou Samuel da Matta 👋
 
-- 🔭 Atualmente trabalhando com Front-End
 - 🌱 Estou aprendendo Back-End
 - 📫 Contrate-me: samueldamattaid@gmail.com
 
