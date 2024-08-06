@@ -1,20 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá 👋</h1>
 
 ###
 
-<p align="left">My name is Samuel Corrêa da Matta and I'm a Back-End Dev, from Brazil</p>
+<p align="left">Meu nome é Samuel Corrêa da Matta e eu sou Back-End Dev</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Spring<br>🎯 Goals: Carry out projects to make people’s lives easier</p>
+<p align="left">✨ Criando projetos desde 2023<br>📚 Atualmente aprendendo Spring<br</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tecnologias </h2>
 
 ###
 
