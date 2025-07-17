@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando projetos desde 2023<br>📚 Atualmente aprendendo Spring<br</p>
+<p align="left">✨ Criando projetos desde 2023<br>📚 Atualmente aprendendo Spring Boot<br</p>
 
 ###
 
