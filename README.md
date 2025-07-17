@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Samuel Corrêa da Matta e eu sou Back-End Dev</p>
+<p align="left">Meu nome é Samuel Corrêa da Matta e eu sou Desenvolvedor Full-Stack</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando projetos desde 2023<br>📚 Atualmente aprendendo Spring Boot<br> Desenvolvedor Full-Stack</p>
+<p align="left">✨ Criando projetos desde 2023<br>📚 Atualmente aprendendo Spring Boot</p>
 
 ###
 
