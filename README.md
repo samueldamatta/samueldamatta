@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando projetos desde 2023<br>📚 Atualmente aprendendo Spring Boot<br</p>
+<p align="left">✨ Criando projetos desde 2023<br>📚 Atualmente aprendendo Spring Boot<br> Desenvolvedor Full-Stack</p>
 
 ###
 
@@ -21,9 +21,11 @@
 <div align="left">
 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="javascript logo"  />
+/</div>
 
 ###
