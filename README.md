@@ -58,7 +58,6 @@
 
 ## 📈 **GitHub Stats**
 <div align="center">  
-  <a href="https://github.com/samueldamatta">  
     <img height="220em" src="https://github-readme-stats.vercel.app/api?username=samueldamatta&show_icons=true&theme=dark&count_private=true"/>  
     <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldamatta&hide=blade,css,html&langs_count=158&exclude_repo=Monitoria-EDA&layout=compact&theme=dark"/>
   </a>  
@@ -66,16 +65,4 @@
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=samueldamatta&hide_border=true&bg_color=151515&color=FFFFFF&line=2ECC71&point=2ECC71&area_color=1ABC9C" width="100%" alt="Contribution Graph" />
   </p>
 </div>
-
-
----
-
-<details>
-  <summary>🌍 <b>Contact</b></summary>
-
-  - 📫 **Email:** [samueldamatta7@gmail.com](mailto:samueldamatta7@gmail.com)  
-  - 💼 **LinkedIn:** [Samuel da Matta](https://www.linkedin.com/in/samueldamatta/)  
-  - 🌐 **Portfolio:** [[samuel-dev](https://samuel-dev-bay.vercel.app/)]  
-
-</details>
 
